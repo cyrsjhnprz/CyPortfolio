@@ -1,4 +1,4 @@
-# Beginner Developer Portfolio
+# CyPortfolio
 
 A modern, beginner-friendly portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. It is designed to look professional enough for internships, freelance work, and junior developer applications while keeping the code easy to study and edit.
 
@@ -18,34 +18,34 @@ A modern, beginner-friendly portfolio website built with Next.js, TypeScript, Ta
 
 ```text
 .
-├── public
-│   └── images
-│       ├── profile-placeholder.svg
-│       ├── project-ecommerce.svg
-│       ├── project-portfolio.svg
-│       └── project-task-manager.svg
-├── src
-│   ├── app
-│   │   ├── globals.css
-│   │   ├── layout.tsx
-│   │   └── page.tsx
-│   ├── components
-│   │   ├── About.tsx
-│   │   ├── Contact.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Journey.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── Projects.tsx
-│   │   ├── Section.tsx
-│   │   └── Skills.tsx
-│   └── lib
-│       └── data.ts
-├── package.json
-├── tailwind.config.ts
-├── postcss.config.mjs
-├── next.config.mjs
-└── tsconfig.json
+|-- public
+|   `-- images
+|       |-- profile-placeholder.svg
+|       |-- project-ecommerce.svg
+|       |-- project-portfolio.svg
+|       `-- project-task-manager.svg
+|-- src
+|   |-- app
+|   |   |-- globals.css
+|   |   |-- layout.tsx
+|   |   `-- page.tsx
+|   |-- components
+|   |   |-- About.tsx
+|   |   |-- Contact.tsx
+|   |   |-- Footer.tsx
+|   |   |-- Hero.tsx
+|   |   |-- Journey.tsx
+|   |   |-- Navbar.tsx
+|   |   |-- Projects.tsx
+|   |   |-- Section.tsx
+|   |   `-- Skills.tsx
+|   `-- lib
+|       `-- data.ts
+|-- package.json
+|-- tailwind.config.ts
+|-- postcss.config.mjs
+|-- next.config.mjs
+`-- tsconfig.json
 ```
 
 ## Getting Started
