@@ -1,0 +1,19 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="#0B1120"/>
+  <rect x="58" y="56" width="784" height="508" rx="18" fill="#101522" stroke="#263244" stroke-width="2"/>
+  <rect x="96" y="96" width="228" height="26" rx="8" fill="#38BDF8"/>
+  <rect x="646" y="92" width="158" height="38" rx="10" fill="#172033" stroke="#334155"/>
+  <rect x="96" y="170" width="206" height="260" rx="14" fill="#172033"/>
+  <rect x="124" y="198" width="150" height="116" rx="12" fill="#38BDF8" fill-opacity="0.22"/>
+  <rect x="124" y="342" width="118" height="18" rx="9" fill="#64748B"/>
+  <rect x="124" y="378" width="82" height="34" rx="8" fill="#38BDF8"/>
+  <rect x="347" y="170" width="206" height="260" rx="14" fill="#172033"/>
+  <rect x="375" y="198" width="150" height="116" rx="12" fill="#38BDF8" fill-opacity="0.22"/>
+  <rect x="375" y="342" width="118" height="18" rx="9" fill="#64748B"/>
+  <rect x="375" y="378" width="82" height="34" rx="8" fill="#38BDF8"/>
+  <rect x="598" y="170" width="206" height="260" rx="14" fill="#172033"/>
+  <rect x="626" y="198" width="150" height="116" rx="12" fill="#38BDF8" fill-opacity="0.22"/>
+  <rect x="626" y="342" width="118" height="18" rx="9" fill="#64748B"/>
+  <rect x="626" y="378" width="82" height="34" rx="8" fill="#38BDF8"/>
+  <text x="450" y="520" fill="#9AA4B2" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">E-commerce UI Screenshot</text>
+</svg>

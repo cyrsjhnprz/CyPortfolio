@@ -1,0 +1,16 @@
+<svg width="900" height="620" viewBox="0 0 900 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="620" fill="#0B1120"/>
+  <rect x="70" y="64" width="760" height="492" rx="18" fill="#101522" stroke="#263244" stroke-width="2"/>
+  <rect x="112" y="108" width="278" height="34" rx="8" fill="#38BDF8"/>
+  <rect x="112" y="176" width="676" height="66" rx="12" fill="#172033"/>
+  <rect x="138" y="200" width="28" height="28" rx="6" fill="#38BDF8"/>
+  <rect x="188" y="202" width="310" height="20" rx="10" fill="#475569"/>
+  <rect x="112" y="268" width="676" height="66" rx="12" fill="#172033"/>
+  <rect x="138" y="292" width="28" height="28" rx="6" fill="#0B1120" stroke="#475569"/>
+  <rect x="188" y="294" width="392" height="20" rx="10" fill="#475569"/>
+  <rect x="112" y="360" width="676" height="66" rx="12" fill="#172033"/>
+  <rect x="138" y="384" width="28" height="28" rx="6" fill="#0B1120" stroke="#475569"/>
+  <rect x="188" y="386" width="250" height="20" rx="10" fill="#475569"/>
+  <rect x="594" y="454" width="194" height="48" rx="10" fill="#38BDF8"/>
+  <text x="450" y="520" fill="#9AA4B2" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">Task Manager App Screenshot</text>
+</svg>
