@@ -14,8 +14,8 @@ import {
 export const developer = {
   name: "Cy",
   role: "Aspiring Full-Stack Developer",
-  email: "cyrsjhnprz04@example.com",
-  github: "https://github.com/yourusername",
+  email: "cyrsjhnprz04@gmail.com",
+  github: "https://github.com/cyrsjhnprz",
   linkedin: "https://www.linkedin.com/in/yourusername"
 };
 
