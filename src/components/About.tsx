@@ -7,7 +7,6 @@ export function About() {
       id="about"
       eyebrow="About me"
       title="A junior developer building steady, practical skills."
-      subtitle="This section is written as sample content. Replace it with your real story, school, bootcamp, self-study path, or projects."
     >
       <div className="grid gap-8 lg:grid-cols-[0.85fr_1.15fr] lg:items-center">
         <div className="overflow-hidden rounded-lg border border-line bg-panel">
@@ -38,6 +37,10 @@ export function About() {
             PHP, MySQL, and deployment workflows so I can contribute confidently to
             internships, freelance projects, and junior developer roles.
           </p>
+          <p>
+            Born in San Carlos City in 1999, I turned a passion for web development into a relentless pursuit of building modern digital experiences
+          </p>
+
         </div>
       </div>
     </Section>
