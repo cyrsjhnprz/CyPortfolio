@@ -18,7 +18,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col justify-between gap-4 border-t border-line pt-6 text-sm text-muted sm:flex-row sm:items-center">
-          <p>Copyright {new Date().getFullYear()} {developer.name}. All rights reserved.</p>
+          <p>Copyright {new Date().getFullYear()} Cyrus John S. Perez. All rights reserved.</p>
           <div className="flex gap-3">
             {socials.map((social) => {
               const Icon = social.icon;
