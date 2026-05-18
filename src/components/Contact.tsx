@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Instagram, Mail } from "lucide-react";
 import { Section } from "@/components/Section";
 import { developer } from "@/lib/data";
 
@@ -8,14 +8,13 @@ export function Contact() {
       id="contact"
       eyebrow="Contact"
       title="Let us build something useful."
-      subtitle="This form is ready for styling and layout. Connect it later to Formspree, Resend, EmailJS, or your own API route."
+      subtitle="Send a message or reach me through my active profiles."
     >
       <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr]">
         <div className="rounded-lg border border-line bg-panel/70 p-6">
           <h3 className="text-xl font-semibold text-white">Contact details</h3>
           <p className="mt-3 text-sm leading-6 text-muted">
-            Replace these placeholders with your real email and social profiles before
-            publishing.
+            I am open to project ideas, collaboration, and learning opportunities.
           </p>
 
           <div className="mt-6 space-y-4">
@@ -36,18 +35,23 @@ export function Contact() {
               GitHub profile
             </a>
             <a
-              href={developer.linkedin}
+              href={developer.instagram}
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-3 text-sm text-muted transition hover:text-white"
             >
-              <Linkedin size={18} className="text-accent" />
-              LinkedIn profile
+              <Instagram size={18} className="text-accent" />
+              Instagram profile
             </a>
           </div>
         </div>
 
-        <form className="rounded-lg border border-line bg-panel/70 p-6">
+        <form
+          action={`mailto:${developer.email}`}
+          method="post"
+          encType="text/plain"
+          className="rounded-lg border border-line bg-panel/70 p-6"
+        >
           <div className="grid gap-5 sm:grid-cols-2">
             <label className="grid gap-2 text-sm font-medium text-white">
               Name

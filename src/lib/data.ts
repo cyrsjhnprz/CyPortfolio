@@ -3,7 +3,7 @@ import {
   Database,
   FileCode2,
   Github,
-  Globe2,
+  Instagram,
   Layers,
   Monitor,
   Server,
@@ -16,7 +16,7 @@ export const developer = {
   role: "Aspiring Full-Stack Developer",
   email: "cyrsjhnprz04@gmail.com",
   github: "https://github.com/cyrsjhnprz",
-  linkedin: "https://www.linkedin.com/in/yourusername"
+  instagram: "https://instagram.com/cwhycwy"
 };
 
 export const navLinks = [
@@ -96,5 +96,5 @@ export const timeline = [
 
 export const socials = [
   { label: "GitHub", href: developer.github, icon: Github },
-  { label: "LinkedIn", href: developer.linkedin, icon: Globe2 }
+  { label: "Instagram", href: developer.instagram, icon: Instagram }
 ];

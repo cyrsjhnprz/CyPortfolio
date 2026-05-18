@@ -79,7 +79,7 @@ src/lib/data.ts
 Update:
 
 - Your name and role
-- Email, GitHub, and LinkedIn links
+- Email, GitHub, and Instagram links
 - Skills
 - Project titles, descriptions, tech stacks, GitHub links, and live demo links
 - Learning journey timeline
