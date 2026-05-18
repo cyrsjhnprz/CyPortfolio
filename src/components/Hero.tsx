@@ -25,7 +25,7 @@ export function Hero() {
           className="max-w-3xl"
         >
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.2em] text-accent">
-            Available for internships and freelance projects
+            Available for freelance projects
           </p>
           <h1
             id="hero-title"
