@@ -13,8 +13,9 @@ import {
 
 export const developer = {
   name: "Cy",
+  name2: "Cy Perez",
   role: "Aspiring Full-Stack Developer",
-  email: "cyrsjhnprz04@gmail.com",
+  email: "cyrjhnprz04@gmail.com",
   github: "https://github.com/cyrsjhnprz",
   instagram: "https://instagram.com/cwhycwy"
 };

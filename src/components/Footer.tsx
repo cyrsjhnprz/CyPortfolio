@@ -6,7 +6,7 @@ export function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col gap-6 px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col justify-between gap-5 md:flex-row md:items-center">
           <a href="#home" className="text-sm font-bold uppercase tracking-[0.2em] text-white">
-            {developer.name}
+            {developer.name2}
           </a>
           <nav className="flex flex-wrap gap-4" aria-label="Footer navigation">
             {navLinks.map((link) => (

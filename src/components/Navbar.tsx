@@ -14,7 +14,7 @@ export function Navbar() {
         aria-label="Main navigation"
       >
         <a href="#home" className="text-sm font-bold uppercase tracking-[0.2em] text-white">
-          {developer.name}
+          {developer.name2}
         </a>
 
         <div className="hidden items-center gap-6 md:flex">
