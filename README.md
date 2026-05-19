@@ -23,7 +23,7 @@ A modern and responsive portfolio website built with Next.js, TypeScript, Tailwi
 ## Preview
 
 ```text
-https://your-vercel-link.vercel.app
+https://cy-portfolio-ten.vercel.app/
 ```
 
 ## Installation
