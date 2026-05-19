@@ -5,7 +5,6 @@ import {
   Github,
   Instagram,
   Layers,
-  Monitor,
   Server,
   Terminal,
   Wrench
@@ -35,11 +34,10 @@ export const skills = [
   { name: "TypeScript", icon: Code2, description: "Typed JavaScript basics" },
   { name: "Node.js", icon: Server, description: "Server-side JavaScript" },
   { name: "Express", icon: Terminal, description: "Simple API routes" },
-  { name: "PHP", icon: FileCode2, description: "Backend fundamentals" },
+  { name: "React", icon: Code2, description: "Component-based interfaces" },
   { name: "MySQL", icon: Database, description: "Relational databases" },
   { name: "Git", icon: Wrench, description: "Version control workflow" },
-  { name: "GitHub", icon: Github, description: "Code hosting and projects" },
-  { name: "VS Code", icon: Monitor, description: "Daily development editor" }
+  { name: "GitHub", icon: Github, description: "Code hosting and projects" }
 ];
 
 export const projects = [

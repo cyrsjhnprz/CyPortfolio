@@ -34,7 +34,7 @@ export function About() {
           </p>
           <p>
             Right now I am improving my understanding of Next.js, Node.js, Express,
-            PHP, MySQL, and deployment workflows so I can contribute confidently to
+            MySQL, and deployment workflows so I can contribute confidently to
             internships, freelance projects, and junior developer roles.
           </p>
           <p>
