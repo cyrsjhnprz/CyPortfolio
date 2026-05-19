@@ -1,129 +1,81 @@
 # CyPortfolio
 
-A modern, beginner-friendly portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. It is designed to look professional enough for internships, freelance work, and junior developer applications while keeping the code easy to study and edit.
+A modern and responsive portfolio website built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Designed to showcase projects, skills, and professional experience with smooth animations and a clean user interface.
 
 ## Features
 
-- Dark mode by default
-- Responsive mobile-first layout
-- Sticky navigation with smooth scrolling
-- Subtle Framer Motion animations
-- Hero, About, Skills, Projects, Learning Journey, Contact, and Footer sections
-- Beginner-readable folder structure
-- Placeholder project screenshots and profile image
-- Basic SEO metadata
-- Easy-to-customize content in one data file
+- Responsive mobile-first design
+- Smooth scrolling navigation
+- Animated UI with Framer Motion
+- Dark-themed modern interface
+- Project showcase section
+- Skills and learning journey timeline
+- Contact section for client inquiries
+- SEO-ready structure
 
-## Folder Structure
+## Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## Preview
 
 ```text
-.
-|-- public
-|   `-- images
-|       |-- profile-placeholder.svg
-|       |-- project-ecommerce.svg
-|       |-- project-portfolio.svg
-|       `-- project-task-manager.svg
-|-- src
-|   |-- app
-|   |   |-- globals.css
-|   |   |-- layout.tsx
-|   |   `-- page.tsx
-|   |-- components
-|   |   |-- About.tsx
-|   |   |-- Contact.tsx
-|   |   |-- Footer.tsx
-|   |   |-- Hero.tsx
-|   |   |-- Journey.tsx
-|   |   |-- Navbar.tsx
-|   |   |-- Projects.tsx
-|   |   |-- Section.tsx
-|   |   `-- Skills.tsx
-|   `-- lib
-|       `-- data.ts
-|-- package.json
-|-- tailwind.config.ts
-|-- postcss.config.mjs
-|-- next.config.mjs
-`-- tsconfig.json
+https://your-vercel-link.vercel.app
 ```
 
-## Getting Started
+## Installation
 
-Install dependencies:
+Clone the repository and install dependencies:
 
 ```bash
 npm install
 ```
 
-Start the development server:
+Run the development server:
 
 ```bash
 npm run dev
 ```
 
-Open the local URL shown in your terminal, usually:
+## Project Structure
 
 ```text
-http://localhost:3000
+src/
+ ├── app/
+ ├── components/
+ └── lib/
 ```
 
-## Customize Your Portfolio
+## Customization
 
-Most personal content is in:
+Update portfolio content inside:
 
 ```text
 src/lib/data.ts
 ```
 
-Update:
-
-- Your name and role
-- Email, GitHub, and Instagram links
-- Skills
-- Project titles, descriptions, tech stacks, GitHub links, and live demo links
-- Learning journey timeline
-
-Update SEO metadata in:
-
-```text
-src/app/layout.tsx
-```
-
-Replace placeholder images in:
+Replace images inside:
 
 ```text
 public/images
 ```
 
-## Build for Production
-
-Run:
+## Production Build
 
 ```bash
 npm run build
-```
-
-Then preview the production build:
-
-```bash
 npm run start
 ```
 
-## Deploy to Vercel
+## Deployment
 
-1. Push this project to a GitHub repository.
-2. Go to [vercel.com](https://vercel.com).
-3. Click **Add New Project**.
-4. Import your GitHub repository.
-5. Keep the default Next.js settings.
-6. Click **Deploy**.
+Deployed with Vercel.
 
-After deployment, update your project demo links in `src/lib/data.ts` with your real Vercel URLs.
+## Contact
 
-## Notes for Beginners
-
-- Components are split by page section so each file is small.
-- `Section.tsx` handles repeated section spacing and scroll animation.
-- `data.ts` keeps editable portfolio content away from layout code.
-- The contact form is visual only. Connect it later to a form service or a backend API.
+- GitHub
+- Instagram
+- Email
