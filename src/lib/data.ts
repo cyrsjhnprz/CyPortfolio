@@ -89,7 +89,7 @@ export const timeline = [
   {
     title: "Learning Backend Development",
     date: "Now",
-    text: "Improving with Node.js, Express, PHP, MySQL, authentication basics, and cleaner project structure."
+    text: "Improving with Node.js, Express, MySQL, authentication basics, and cleaner project structure."
   }
 ];
 

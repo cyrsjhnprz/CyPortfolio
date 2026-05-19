@@ -18,7 +18,7 @@ export function Journey() {
               className="relative grid gap-4 pl-12 sm:grid-cols-2 sm:gap-8 sm:pl-0"
             >
               <div
-                className={`sm:text-right ${index % 2 === 1 ? "sm:col-start-2 sm:text-left" : ""}`}
+                className={index % 2 === 1 ? "sm:col-start-2 sm:text-left" : "sm:text-right"}
               >
                 <span className="inline-flex rounded-md bg-accent/10 px-3 py-1 text-sm font-semibold text-accent">
                   {item.date}
