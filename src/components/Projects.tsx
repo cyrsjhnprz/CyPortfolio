@@ -12,7 +12,7 @@ export function Projects() {
       id="projects"
       eyebrow="Projects"
       title="Realistic beginner projects with practical features."
-      subtitle="Use these as starter examples, then replace the links and descriptions with your own deployed work."
+      subtitle="Built to solve real-world problems while learning modern web development."
     >
       <div className="grid gap-6 lg:grid-cols-3">
         {projects.map((project, index) => (

@@ -11,8 +11,8 @@ export function About() {
       <div className="grid gap-8 lg:grid-cols-[0.85fr_1.15fr] lg:items-center">
         <div className="overflow-hidden rounded-lg border border-line bg-panel">
           <Image
-            src="/images/profile-placeholder.svg"
-            alt="Profile placeholder"
+            src="/images/profile-photo1.jpg"
+            alt="Profile photo"
             width={720}
             height={720}
             className="aspect-square w-full object-cover"
