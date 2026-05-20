@@ -42,11 +42,11 @@ export const skills = [
 
 export const projects = [
   {
-    title: "Portfolio Website",
-    image: "/images/project-portfolio.svg",
+    title: "Employee Management System",
+    image: "/images/Project1SS.jpg",
     description:
       "A clean personal website built to introduce my skills, projects, and learning progress as a junior developer.",
-    stack: ["Next.js", "TypeScript", "Tailwind CSS"],
+    stack: ["React", "Express", "Tailwind CSS", "MySQL"],
     github: "https://github.com/yourusername/portfolio",
     demo: "https://your-portfolio.vercel.app"
   },
