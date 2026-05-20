@@ -47,7 +47,7 @@ export const projects = [
     description:
       "A full-stack web application for managing employee records, roles, and workplace data through a modern and responsive interface.",
     stack: ["React", "Express", "Tailwind CSS", "MySQL"],
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/cyrsjhnprz/Employee-Management-System",
     demo: "https://your-portfolio.vercel.app"
   },
   {
