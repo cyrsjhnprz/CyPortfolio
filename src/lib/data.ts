@@ -45,7 +45,7 @@ export const projects = [
     title: "Employee Management System",
     image: "/images/Project1SS.jpg",
     description:
-      "A clean personal website built to introduce my skills, projects, and learning progress as a junior developer.",
+      "A full-stack web application for managing employee records, roles, and workplace data through a modern and responsive interface.",
     stack: ["React", "Express", "Tailwind CSS", "MySQL"],
     github: "https://github.com/yourusername/portfolio",
     demo: "https://your-portfolio.vercel.app"
