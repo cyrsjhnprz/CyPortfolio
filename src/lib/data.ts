@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     title: "Authentication System",
-    image: "/images/project-authentication.svg",
+    image: "/images/project-task-manager.svg",
     description:
       "A secure user authentication system with login, registration, and password reset functionality.",
     stack: ["React", "Node.js", "Express", "MySQL"],
@@ -61,7 +61,7 @@ export const projects = [
   },
   {
     title: "FU BEAR Quiz App",
-    image: "/images/project-ecommerce.svg",
+    image: "/images/fubearquiz.jpg",
     description:
       "A front-end quiz application with multiple-choice questions, score tracking, and a clean user interface.",
     stack: ["HTML", "CSS", "JavaScript"],
