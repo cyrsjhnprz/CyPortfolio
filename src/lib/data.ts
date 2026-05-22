@@ -51,21 +51,21 @@ export const projects = [
     demo: "https://employee-management-system-ten-self.vercel.app"
   },
   {
-    title: "Task Manager App",
-    image: "/images/project-task-manager.svg",
+    title: "Authentication System",
+    image: "/images/project-authentication.svg",
     description:
-      "A practical CRUD app for creating, editing, completing, and filtering tasks with a simple responsive interface.",
-    stack: ["JavaScript", "Node.js", "Express"],
-    github: "https://github.com/yourusername/task-manager",
-    demo: "https://task-manager-demo.vercel.app"
+      "A secure user authentication system with login, registration, and password reset functionality.",
+    stack: ["React", "Node.js", "Express", "MySQL"],
+    github: "https://github.com/yourusername/authentication-system",
+    demo: "https://authentication-system-demo.vercel.app"
   },
   {
-    title: "Simple E-commerce UI",
+    title: "FU BEAR Quiz App",
     image: "/images/project-ecommerce.svg",
     description:
-      "A front-end shopping layout with product cards, category filters, a cart summary, and mobile-friendly spacing.",
+      "A front-end quiz application with multiple-choice questions, score tracking, and a clean user interface.",
     stack: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/yourusername/ecommerce-ui",
+    github: "https://github.com/CjaySilvano/TE-quiz-app.git",
     demo: "https://ecommerce-ui-demo.vercel.app"
   }
 ];
