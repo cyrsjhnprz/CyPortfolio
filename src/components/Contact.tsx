@@ -67,7 +67,7 @@ export function Contact() {
               <input
                 type="email"
                 name="email"
-                placeholder="you@example.com"
+                placeholder="Your email address"
                 className="rounded-md border border-line bg-background px-4 py-3 text-sm text-white outline-none transition placeholder:text-slate-600 focus:border-accent"
               />
             </label>

@@ -56,15 +56,25 @@ export function Projects() {
                   <Github size={16} />
                   GitHub
                 </a>
-                <a
-                  href={project.demo}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center justify-center gap-2 rounded-md bg-accent px-3 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-300"
-                >
-                  <ExternalLink size={16} />
-                  Demo
-                </a>
+                {project.title === "Employee Management System" ? (
+                  <a
+                    href={project.demo}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-flex items-center justify-center gap-2 rounded-md bg-accent px-3 py-2 text-sm font-semibold text-slate-950 transition hover:bg-sky-300"
+                  >
+                    <ExternalLink size={16} />
+                    Demo
+                  </a>
+                ) : (
+                  <button
+                    disabled
+                    className="inline-flex items-center justify-center gap-2 rounded-md border border-line px-3 py-2 text-sm font-semibold text-muted cursor-not-allowed opacity-50"
+                  >
+                    <ExternalLink size={16} />
+                    Demo
+                  </button>
+                )}
               </div>
             </div>
           </motion.article>
