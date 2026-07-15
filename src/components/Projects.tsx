@@ -72,7 +72,7 @@ export function Projects() {
                     className="inline-flex items-center justify-center gap-2 rounded-md border border-line px-3 py-2 text-sm font-semibold text-muted cursor-not-allowed opacity-50"
                   >
                     <ExternalLink size={16} />
-                    Demo
+                    Unvailable
                   </button>
                 )}
               </div>

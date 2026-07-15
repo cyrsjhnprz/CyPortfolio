@@ -22,7 +22,7 @@ export function About() {
 
         <div className="space-y-5 text-base leading-8 text-muted">
           <p>
-            I am an aspiring full-stack developer focused on building clean,
+            I am a full-stack developer focused on building clean,
             responsive, and useful web applications. I enjoy turning ideas into
             simple interfaces that are easy to use on both desktop and mobile.
           </p>
@@ -33,7 +33,7 @@ export function About() {
             features.
           </p>
           <p>
-            Right now I am improving my understanding of Next.js, Node.js, Express,
+            Right now I am improving my understanding of Next.js, Node.js, Express, PHP,
             MySQL, and deployment workflows so I can contribute confidently to
             internships, freelance projects, and junior developer roles.
           </p>
